@@ -14,7 +14,7 @@ public class HelloGitTest {
         System.out.println("Hello git test!");
         System.out.println("Hello git test by GitHub!");
         System.out.println("Hello git test by GitHub!");
-        System.out.println("Hello git test by GitHub!");
+//         System.out.println("Hello git test by GitHub!");
     }
 
 }
